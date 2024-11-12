@@ -1,27 +1,37 @@
-# Compiled class files
-*.class
+# Compiled object files
+*.o
+*.obj
 
-# Log files
-*.log
+# Executable files
+*.out
+*.exe
+a.out
 
-# Eclipse IDE
-.project
-.classpath
-.settings/
-
-# IntelliJ IDEA
-.idea/
-*.iml
-
-# Maven build directory
+# Build directories
+build/
+bin/
 target/
 
-# Gradle build directory
-build/
+# Dependency directories
+*.d
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
 
 # OS-specific files
 .DS_Store
 Thumbs.db
 
-# Environment files
-.env
+# Logs
+*.log
+
+# Temporary files
+*.bak
+*.tmp
+
+# Makefile or other generated files
+Makefile
+Makefile.dep
