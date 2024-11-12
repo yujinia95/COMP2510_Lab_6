@@ -1,0 +1,16 @@
+Mary Jackson 4.0 I 60
+Jack He 2.45 D
+Mike Johnson 3.125 D
+Jane Zhang 3.8 I 120
+John Den 4.1 D
+Alice Smith 4.200 I 80
+Emily Davis 3.75 I 150
+Robert Brown 3.6 D
+Sophia Green 3.9 I 90
+Daniel Lee 2.8 D
+Olivia Wilson 4.0 I 100
+James Taylor 3.5 D
+Ava Miller 3.95 I 110
+William Anderson 2.9 D
+Mia Thomas 4.1 I 130
+Lucas Martinez 3.3 D
