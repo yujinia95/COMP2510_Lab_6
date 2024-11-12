@@ -1,3 +1,0 @@
-/cygdrive/c/Users/te020/Desktop/CLion_C/Lab6/cmake-build-debug/CMakeFiles/Lab6.dir
-/cygdrive/c/Users/te020/Desktop/CLion_C/Lab6/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/c/Users/te020/Desktop/CLion_C/Lab6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
